@@ -1,7 +1,7 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
 ## Artificial Intelligence
 #### Used for recognition,etc
-## Artificial General Intelligence
+## Artificial General Intelligence #### All kinds of work can be done
 ## History of Artificial Intelligence
 ### Perceptron
 ### Backpropagation
