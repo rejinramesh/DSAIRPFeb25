@@ -4,7 +4,6 @@
 ## Artificial General Intelligence 
 #### All kinds of work can be done
 ## History of Artificial Intelligence
-This is my note about AI history
 ### Perceptron
 ### Backpropagation
 ### AI Winter
