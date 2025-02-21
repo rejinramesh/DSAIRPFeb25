@@ -1,5 +1,5 @@
 # Demystifying Terms Data Science, Machine Learning, Artificial Intelligence
-## Artificial Intelligence
+## Artificial Intelligence - Used for recognition , etc
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
 ### Perceptron
