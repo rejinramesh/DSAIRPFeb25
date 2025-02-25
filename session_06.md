@@ -24,27 +24,27 @@ jupyter notebook
 # Python Data Types
 ## Numeric Type - Includes only numbers
 ### Integer
-#### Integer (int): Represents whole numbers without a fractional or decimal component, such as 5, -10, or 1000. Python supports arbitrarily large integers, limited only by system memory.
+#### Represents whole numbers without a fractional or decimal component, such as 5, -10, or 1000. Python supports arbitrarily large integers, limited only by system memory.
 ### Float
-#### Float (float): Represents real numbers with decimal points, such as 3.14, -0.001, or 2.0. Floats are stored using IEEE 754 double-precision format, which can sometimes lead to small precision errors.
+#### Represents real numbers with decimal points, such as 3.14, -0.001, or 2.0. Floats are stored using IEEE 754 double-precision format, which can sometimes lead to small precision errors.
 ### Complex
-#### Complex (complex): Represents numbers with a real and imaginary part, written as a + bj, where a and b are floats and j is the imaginary unit. Complex numbers are useful in scientific computing, signal processing, and advanced mathematics.
+####  Represents numbers with a real and imaginary part, written as a + bj, where a and b are floats and j is the imaginary unit. Complex numbers are useful in scientific computing, signal processing, and advanced mathematics.
 
 ## Text Type
 ### String
-#### String (str): Represents a sequence of characters enclosed in single ('), double (") or triple (''' """) quotes, such as "hello", 'Python', or """multi-line string""". Strings are immutable, meaning their content cannot be changed after creation, and they support various operations like slicing, concatenation, and formatting.
+#### Represents a sequence of characters enclosed in single ('), double (") or triple (''' """) quotes, such as "hello", 'Python', or """multi-line string""". Strings are immutable, meaning their content cannot be changed after creation, and they support various operations like slicing, concatenation, and formatting.
 
 ## Sequence Type
 ### List
-#### List (list): An ordered, mutable collection that can store elements of different data types, such as [1, "apple", 3.5]. Lists support operations like appending, removing, slicing, and modifying elements.
+#### An ordered, mutable collection that can store elements of different data types, such as [1, "apple", 3.5]. Lists support operations like appending, removing, slicing, and modifying elements.
 ### Tuple
-#### Tuple (tuple): An ordered, immutable collection that can hold elements of different types, such as (10, "banana", 2.5). Since tuples cannot be modified after creation, they are useful for ensuring data integrity and performance optimization.
+#### An ordered, immutable collection that can hold elements of different types, such as (10, "banana", 2.5). Since tuples cannot be modified after creation, they are useful for ensuring data integrity and performance optimization.
 ### Range
-#### Range (range): Represents an immutable sequence of numbers, commonly used for iteration, created using range(start, stop, step), such as range(1, 10, 2). It generates values on demand, making it memory-efficient for large sequences.
+#### Represents an immutable sequence of numbers, commonly used for iteration, created using range(start, stop, step), such as range(1, 10, 2). It generates values on demand, making it memory-efficient for large sequences.
 
 ## Mapping Type
 ### Dictionary
-#### Dictionary (dict): An unordered, mutable collection of key-value pairs, where each key is unique and used to access its corresponding value, such as {"name": "Alice", "age": 25, "city": "New York"}. Dictionaries provide fast lookups, modifications, and deletions, making them ideal for structured data storage and retrieval.
+####  An unordered, mutable collection of key-value pairs, where each key is unique and used to access its corresponding value, such as {"name": "Alice", "age": 25, "city": "New York"}. Dictionaries provide fast lookups, modifications, and deletions, making them ideal for structured data storage and retrieval.
 
 
 
